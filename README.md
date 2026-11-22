@@ -5,6 +5,9 @@ REMAKING MY GITHUB ONE DAY..
 </a>
 
 [![DNI & BYF](YOUR_IMAGE_URL)](https://puffies.atabook.org/)
+<a href="https://atabook.org">
+  <img src="YOUR_IMAGE_URL" alt="Red and white sticker-style graphic reading DNI & BYF with a warning exclamation mark triangle" width="200" />
+</a>
 
 
 <img width="1500" height="500" alt="Untitled276_20260618215108" src="https://github.com/user-attachments/assets/428e65f2-890e-4a16-9620-990e445950d4" />
